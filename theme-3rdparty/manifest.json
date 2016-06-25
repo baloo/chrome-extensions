@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "theme-3rdparty",
+  "description": "This is a theme to distinguish work profile in chrome",
+  "version": "0.1",
+
+  "theme": {
+    "colors" : {
+      "frame" : [255, 223, 68],
+      "toolbar" : [255, 237, 151]
+    }
+  }
+}

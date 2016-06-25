@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "theme-personal",
+  "description": "This is a theme to distinguish personal profile in chrome",
+  "version": "0.1",
+
+  "theme": {
+    "colors" : {
+      "frame" : [58, 219, 78],
+      "toolbar" : [142, 240, 154]
+    }
+  }
+}

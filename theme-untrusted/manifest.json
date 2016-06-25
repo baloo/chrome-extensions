@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "theme-untrusted",
+  "description": "This is a theme to distinguish untrusted profile in chrome",
+  "version": "0.1",
+
+  "theme": {
+    "colors" : {
+      "frame" : [252, 67, 76],
+      "toolbar" : [254, 150, 155]
+    }
+  }
+}
